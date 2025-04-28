@@ -1,4 +1,4 @@
-print("<<  Pass: NewSigmaSigmaBoy  >>
+print("<<  Pass: NewSigmaSigmaBoy  >>")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LarsScripts/FemboysCrimHub/refs/heads/main/Free%20Version",true))()
 print("AutoLockpick............ loaded")
 
